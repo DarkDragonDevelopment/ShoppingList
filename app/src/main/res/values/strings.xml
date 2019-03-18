@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="add_item">Add Item</string>
+    <string name="UsualItems_name">Usual Items</string>
+    <string name="first_choice">Choice 1</string>
+    <string name="second_choice">Choice 2</string>
+    <string name="third_choice">Choice 3</string>
+    <string name="fourth_choice">Choice 4</string>
+    <string name="fifth_choice">Choice 5</string>
+    <string name="sixth_choice">Choice 6</string>
+    <string name="seventh_choice">Choice 7</string>
+    <string name="main_button">Add Item</string>
+    <string name="imageButton1">Boneless Skinless Chicken Breast</string>
+    <string name="imageButton2">Frozen Green Beans</string>
+    <string name="imageButton3">Frank\'s Red Hot Sauce</string>
+    <string name="imageButton4">Bananas</string>
+    <string name="imageButton5">95% Lean Burger</string>
+    <string name="imageButton6">Low-Fat Yogurt</string>
+    <string name="imageButton7">Mixed Vegetables</string>
+</resources>
